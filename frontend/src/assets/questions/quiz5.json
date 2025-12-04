@@ -1,0 +1,396 @@
+[
+  {
+    "id": "Câu 1",
+    "question_text": "Kim loại nào sau đây thuộc kim loại kiềm thổ:",
+    "options": {
+      "A": "Al.",
+      "B": "Mg.",
+      "C": "Fe.",
+      "D": "Na."
+    }
+  },
+  {
+    "id": "Câu 2",
+    "question_text": "Hòa tan hoàn toàn 13 gam Zn bằng dung dịch H2SO4 loãng, thu được V lít H2 (đktc). Giá trị của V là",
+    "options": {
+      "A": "2,24.",
+      "B": "3,36.",
+      "C": "1,12.",
+      "D": "4,48."
+    }
+  },
+  {
+    "id": "Câu 3",
+    "question_text": "Khi so sánh NH3 với NH4+, phát biểu không đúng là:",
+    "options": {
+      "A": "Trong NH3 và NH4+, nitơ đều có số oxi hóa -3.",
+      "B": "NH3 có tính bazơ, NH4+ có tính axit.",
+      "C": "Trong NH3 và NH4+, nitơ đều có cộng hóa trị 3.",
+      "D": "Phân tử NH3 và ion NH4+ đều chứa liên kết cộng hóa trị."
+    }
+  },
+  {
+    "id": "Câu 4",
+    "question_text": "Chất nào sau đây là glixerol ?",
+    "options": {
+      "A": "C2H4(OH)2",
+      "B": "C3H5OH",
+      "C": "C2H5OH",
+      "D": "C3H5(OH)3"
+    }
+  },
+  {
+    "id": "Câu 5",
+    "question_text": "Sắp xếp các chất sau đây theo thứ tự độ ngọt tăng dần: Glucozơ, Fructozơ, Saccarozơ",
+    "options": {
+      "A": "Glucozơ < Saccarozơ < Fructozơ.",
+      "B": "Fructozơ < glucozơ < Saccarozơ.",
+      "C": "Glucozơ < Fructozơ < Saccarozơ.",
+      "D": "Saccarozơ < Glucozơ < Fructozơ."
+    }
+  },
+  {
+    "id": "Câu 6",
+    "question_text": "Trong công nghiệp, kim loại Al được điều chế bằng phương pháp",
+    "options": {
+      "A": "nhiệt luyện.",
+      "B": "thủy luyện.",
+      "C": "điện phân Al2O3 nóng chảy.",
+      "D": "điện phân dung dịch AlCl3."
+    }
+  },
+  {
+    "id": "Câu 7",
+    "question_text": "Tơ nào sau đây là tơ hóa học?",
+    "options": {
+      "A": "Tơ tằm.",
+      "B": "Tơ nilon-6,6.",
+      "C": "Bông.",
+      "D": "Len."
+    }
+  },
+  {
+    "id": "Câu 8",
+    "question_text": "Cho sơ đồ chuyển hóa: Ancol etylic → X → Y → Axit axetic. X, Y lần lượt là:",
+    "options": {
+      "A": "etan, etilen.",
+      "B": "etilen, ancol etylic.",
+      "C": "etilen, anđehit axetic.",
+      "D": "anđehit axetic, etilen."
+    }
+  },
+  {
+    "id": "Câu 9",
+    "question_text": "Cho 2,8 gam Fe tác dụng hết với dung dịch H2SO4 loãng, thu được V lít khí H2 (đktc). Giá trị của V là",
+    "options": {
+      "A": "1,12.",
+      "B": "2,24.",
+      "C": "3,36.",
+      "D": "4,48."
+    }
+  },
+  {
+    "id": "Câu 10",
+    "question_text": "Cho 5,34 gam hỗn hợp X chứa ba amin no, đơn chức, mạch hở tác dụng vừa đủ với HCl thu được 8,99 gam muối. Tổng số mol của ba amin trong X là",
+    "options": {
+      "A": "0,09 mol.",
+      "B": "0,11 mol.",
+      "C": "0,08 mol.",
+      "D": "0,10 mol."
+    }
+  },
+  {
+    "id": "Câu 11",
+    "question_text": "Phát biểu nào sau đây đúng?",
+    "options": {
+      "A": "Phân tử amilopectin có cấu trúc mạch phân nhánh.",
+      "B": "Thủy phân hoàn toàn xenlulozơ thu được fructozơ.",
+      "C": "Phân tử tinh bột được cấu tạo từ các gốc α-glucozơ.",
+      "D": "Glucozơ và saccarozơ đều là chất rắn, không màu, dễ tan trong nước."
+    }
+  },
+  {
+    "id": "Câu 12",
+    "question_text": "Thực hiện thí nghiệm sau: Cho một mẩu Na vào dung dịch CuSO4. Hiện tượng quan sát được là:",
+    "options": {
+      "A": "Chất rắn màu trắng kết tủa.",
+      "B": "Khí không màu thoát ra, có kết tủa màu xanh lam.",
+      "C": "Chất rắn màu trắng kết tủa, có khí thoát ra.",
+      "D": "Kim loại Cu màu đỏ kết tủa."
+    }
+  },
+  {
+    "id": "Câu 13",
+    "question_text": "Phát biểu nào sau đây sai?",
+    "options": {
+      "A": "Ancol etylic tác dụng với axit axetic tạo thành este.",
+      "B": "Axit axetic tác dụng với Mg tạo thành muối và giải phóng H2.",
+      "C": "Ancol etylic tác dụng được với Na.",
+      "D": "Anđehit axetic là chất lỏng, không màu, tan vô hạn trong nước."
+    }
+  },
+  {
+    "id": "Câu 14",
+    "question_text": "Hợp chất nào sau đây là đipeptit?",
+    "options": {
+      "A": "Glyxin.",
+      "B": "Gly-Ala.",
+      "C": "Ala-Gly-Val.",
+      "D": "Val-Gly-Ala-Gly."
+    }
+  },
+  {
+    "id": "Câu 15",
+    "question_text": "Chất X có công thức phân tử C2H6O. X tác dụng được với Na. Tên gọi của X là:",
+    "options": {
+      "A": "Ancol etylic.",
+      "B": "Đimetyl ete.",
+      "C": "Anđehit axetic.",
+      "D": "Axit axetic."
+    }
+  },
+  {
+    "id": "Câu 16",
+    "question_text": "Thủy phân este X có công thức phân tử C4H8O2 trong dung dịch NaOH, thu được muối natri axetat. Công thức cấu tạo của X là:",
+    "options": {
+      "A": "HCOOCH2CH2CH3.",
+      "B": "CH3COOC2H5.",
+      "C": "C2H5COOCH3.",
+      "D": "CH3CH2CH2COOH."
+    }
+  },
+  {
+    "id": "Câu 17",
+    "question_text": "Hòa tan hoàn toàn hỗn hợp gồm 1,12 gam Fe và 1,44 gam FeO bằng 300 ml dung dịch HCl 0,4 M, thu được dung dịch X. Cho dung dịch AgNO3 dư vào X, thu được m gam kết tủa. Giá trị của m là",
+    "options": {
+      "A": "26,585.",
+      "B": "28,735.",
+      "C": "25,300.",
+      "D": "26,165."
+    }
+  },
+  {
+    "id": "Câu 18",
+    "question_text": "Cho các chất: glixerol, saccarozơ, etylen glicol, etyl fomat, axit axetic. Số chất tác dụng được với Cu(OH)2 là",
+    "options": {
+      "A": "3.",
+      "B": "2.",
+      "C": "4.",
+      "D": "5."
+    }
+  },
+  {
+    "id": "Câu 19",
+    "question_text": "Cho 10 gam kim loại Ba vào 100 ml dung dịch AlCl3 0,2M. Sau khi phản ứng xảy ra hoàn toàn, thu được m gam kết tủa. Giá trị của m là",
+    "options": {
+      "A": "4,66.",
+      "B": "2,33.",
+      "C": "7,00.",
+      "D": "9,32."
+    }
+  },
+  {
+    "id": "Câu 20",
+    "question_text": "Cho dãy các chất: HCOOH, H2N-CH2-COOH, C2H5OH, CH3COOH. Số chất phản ứng được với dung dịch NaOH là:",
+    "options": {
+      "A": "2.",
+      "B": "3.",
+      "C": "4.",
+      "D": "1."
+    }
+  },
+  {
+    "id": "Câu 21",
+    "question_text": "Cho các phát biểu sau: (a) Triolein là chất béo lỏng. (b) Dầu mỡ động thực vật bị ôi thiu do nối đôi C=C bị oxi hóa chậm bởi O2 không khí. (c) Thủy phân este X (C4H6O2) trong môi trường axit thu được hai chất đều có khả năng tham gia phản ứng tráng bạc. Công thức cấu tạo của X là HCOOCH=CH-CH3. Số phát biểu đúng là",
+    "options": {
+      "A": "3.",
+      "B": "1.",
+      "C": "4.",
+      "D": "2."
+    }
+  },
+  {
+    "id": "Câu 22",
+    "question_text": "Hỗn hợp X gồm Fe3O4 và Cu (tỉ lệ mol 1:1). Cho X vào dung dịch HCl (dư). Sau khi phản ứng xảy ra hoàn toàn, thu được dung dịch Y và chất rắn Z. Phát biểu đúng là:",
+    "options": {
+      "A": "Cho dung dịch AgNO3 dư vào Y thu được 2 kết tủa.",
+      "B": "Chất rắn Z tan hết trong dung dịch H2SO4 đặc nóng.",
+      "C": "Cho Na vào dung dịch Y thu được khí H2.",
+      "D": "Chất rắn Z là Cu."
+    }
+  },
+  {
+    "id": "Câu 23",
+    "question_text": "Phát biểu nào sau đây đúng?",
+    "options": {
+      "A": "Glucozơ bị khử bởi dung dịch AgNO3 trong NH3.",
+      "B": "Amilozơ có cấu trúc mạch phân nhánh.",
+      "C": "Tinh bột và xenlulozơ là đồng phân của nhau.",
+      "D": "Phân tử khối của Gly-Ala bằng 146."
+    }
+  },
+  {
+    "id": "Câu 24",
+    "question_text": "Hỗn hợp E gồm amin X có công thức dạng CnH2n+3N và aminoaxit Y có công thức dạng CnH2n+1O2N (trong đó số mol X và Y bằng nhau). Đốt cháy hoàn toàn 0,1 mol hỗn hợp E cần dùng 0,39 mol O2, thu được CO2, H2O và N2. Phần trăm khối lượng của X trong E là",
+    "options": {
+      "A": "30,86%.",
+      "B": "42,20%.",
+      "C": "26,14%.",
+      "D": "37,50%."
+    }
+  },
+  {
+    "id": "Câu 25",
+    "question_text": "Đốt cháy hoàn toàn 6 gam este X (no, đơn chức, mạch hở) cần dùng 6,72 lít O2 (đktc), thu được 4,48 lít CO2 (đktc) và 3,6 gam H2O. Công thức cấu tạo của X là",
+    "options": {
+      "A": "HCOOCH3.",
+      "B": "HCOOC2H5.",
+      "C": "CH3COOCH3.",
+      "D": "C2H5COOCH3."
+    }
+  },
+  {
+    "id": "Câu 26",
+    "question_text": "Cho các chất sau: NaHCO3, Ca(HCO3)2, Al(OH)3, Zn(OH)2. Số chất lưỡng tính là:",
+    "options": {
+      "A": "4.",
+      "B": "3.",
+      "C": "2.",
+      "D": "1."
+    }
+  },
+  {
+    "id": "Câu 27",
+    "question_text": "Hỗn hợp X gồm ba amin no, đơn chức, mạch hở, đồng đẳng kế tiếp (trong đó có hai amin có cùng số nguyên tử cacbon). Đốt cháy hoàn toàn 0,05 mol X cần dùng 0,445 mol O2. Phần trăm khối lượng của amin có phân tử khối lớn nhất trong X là",
+    "options": {
+      "A": "40,00%.",
+      "B": "45,00%.",
+      "C": "50,00%.",
+      "D": "55,00%."
+    }
+  },
+  {
+    "id": "Câu 28",
+    "question_text": "Cho 10,74 gam hỗn hợp X gồm ba este (đều đơn chức, mạch hở, có công thức chung là CnH2nO2) tác dụng vừa đủ với 150 ml dung dịch NaOH 1M, thu được hỗn hợp Y gồm hai ancol no, đơn chức, mạch hở (có cùng số nguyên tử cacbon) và 12,3 gam hỗn hợp muối. Đốt cháy hoàn toàn Y thu được CO2 và 4,68 gam H2O. Công thức phân tử của este có khối lượng mol nhỏ nhất là",
+    "options": {
+      "A": "C3H6O2.",
+      "B": "C4H8O2.",
+      "C": "C5H10O2.",
+      "D": "C2H4O2."
+    }
+  },
+  {
+    "id": "Câu 29",
+    "question_text": "Điện phân dung dịch chứa m gam hỗn hợp CuSO4 và NaCl bằng điện cực trơ, màng ngăn xốp. Khi ở cả hai cực đều có khí thoát ra, dừng điện phân thì thấy tổng thể tích khí thu được ở anot và catot là 2,8 lít (đktc). Dung dịch sau điện phân hòa tan tối đa 3,06 gam Al2O3. Giá trị của m là",
+    "options": {
+      "A": "25,05.",
+      "B": "26,15.",
+      "C": "27,25.",
+      "D": "28,35."
+    }
+  },
+  {
+    "id": "Câu 30",
+    "question_text": "Nhỏ từ từ dung dịch Ba(OH)2 vào ống nghiệm chứa dung dịch HCl và Al2(SO4)3. Đồ thị biểu diễn sự phụ thuộc khối lượng kết tủa vào thể tích Ba(OH)2 là",
+    "options": {
+      "A": "Đồ thị 1.",
+      "B": "Đồ thị 2.",
+      "C": "Đồ thị 3.",
+      "D": "Đồ thị 4."
+    }
+  },
+  {
+    "id": "Câu 31",
+    "question_text": "Hỗn hợp X gồm Fe, Fe3O4 và Fe(NO3)2. Cho 20,4 gam X tác dụng với dung dịch HCl (dư), thu được dung dịch Y và 0,02 mol khí NO (sản phẩm khử duy nhất của N+5). Cho dung dịch AgNO3 (dư) vào Y, thu được 70,84 gam kết tủa. Mặt khác, hòa tan hoàn toàn 20,4 gam X bằng dung dịch H2SO4 đặc, nóng (dư), thu được V lít khí NO2 (sản phẩm khử duy nhất, đktc). Giá trị của V là",
+    "options": {
+      "A": "10,08.",
+      "B": "5,376.",
+      "C": "4,48.",
+      "D": "6,72."
+    }
+  },
+  {
+    "id": "Câu 32",
+    "question_text": "Hỗn hợp X gồm 2 este A, B (M_A < M_B, cùng công thức phân tử C4H8O2). Đốt cháy hoàn toàn 0,05 mol X cần dùng V lít O2 (đktc). Dẫn sản phẩm cháy vào dung dịch Ba(OH)2 dư, thấy khối lượng dung dịch giảm 13,03 gam. Đun nóng 0,05 mol X với dung dịch NaOH vừa đủ, thu được hỗn hợp Y gồm 2 ancol (có cùng số nguyên tử cacbon) và 3,4 gam hỗn hợp muối. Giá trị của V là",
+    "options": {
+      "A": "3,92.",
+      "B": "4,256.",
+      "C": "4,704.",
+      "D": "3,472."
+    }
+  },
+  {
+    "id": "Câu 33",
+    "question_text": "Hỗn hợp X gồm alanin và axit glutamic. Cho 0,1 mol X tác dụng với 200 ml dung dịch HCl 1M, thu được dung dịch Y. Để phản ứng hết với các chất trong dung dịch Y cần dùng 400 ml dung dịch NaOH 1M. Phần trăm khối lượng của alanin trong X là",
+    "options": {
+      "A": "46,73%.",
+      "B": "42,75%.",
+      "C": "58,18%.",
+      "D": "53,27%."
+    }
+  },
+  {
+    "id": "Câu 34",
+    "question_text": "Hỗn hợp X gồm 0,2 mol axetilen, 0,1 mol but-1-in, 0,15 mol etilen, 0,1 mol etan và 0,1 mol H2. Cho X đi qua xúc tác Ni, nung nóng, thu được hỗn hợp Y. Cho Y tác dụng với dung dịch AgNO3/NH3 dư, thu được 14,7 gam kết tủa. Mặt khác, đốt cháy hoàn toàn Y thu được m gam CO2 và 9,36 gam H2O. Giá trị của m là",
+    "options": {
+      "A": "48,4.",
+      "B": "52,8.",
+      "C": "44,0.",
+      "D": "46,2."
+    }
+  },
+  {
+    "id": "Câu 35",
+    "question_text": "Cho 0,1 mol amin X no, đơn chức, mạch hở tác dụng với 100 ml dung dịch Y chứa H2SO4 0,5M và HCl 1M, thu được dung dịch Z. Cho toàn bộ Z tác dụng với dung dịch Ba(OH)2 dư, thu được m gam kết tủa. Giá trị của m là",
+    "options": {
+      "A": "27,955.",
+      "B": "25,055.",
+      "C": "23,300.",
+      "D": "26,155."
+    }
+  },
+  {
+    "id": "Câu 36",
+    "question_text": "Cho các phát biểu sau: (1). Crom là kim loại có tính khử yếu hơn sắt. (2). Crom là kim loại cứng nhất, có thể rạch được thủy tinh. (3). Cr(OH)3 là chất lưỡng tính. (4). CrO3 là oxit có tính lưỡng tính. (5). CrO là chất oxi hóa mạnh. Số phát biểu đúng là:",
+    "options": {
+      "A": "4.",
+      "B": "2.",
+      "C": "3.",
+      "D": "1."
+    }
+  },
+  {
+    "id": "Câu 37",
+    "question_text": "Cho các phát biểu sau: (1). Quặng boxit là nguyên liệu chính để sản xuất nhôm kim loại hiện nay. (2). Al(OH)3 và Cr(OH)3 đều là các hiđroxit lưỡng tính. (3). Nhôm là kim loại phổ biến nhất trong vỏ trái đất. (4). Đồng là kim loại có khả năng dẫn điện, dẫn nhiệt tốt, chỉ kém vàng. (5). Gang, thép là loại hợp kim phổ biến nhất hiện nay. (6). Crom là kim loại cứng nhất, có thể rạch được thủy tinh. Số thí nghiệm đúng là?",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "4",
+      "D": "5"
+    }
+  },
+  {
+    "id": "Câu 38",
+    "question_text": "Cho 500 ml dung dịch Ba(OH)2 0,1M vào V ml dung dịch Al2(SO4)3 0,1M; sau khi các phản ứng kết thúc thu được 12,045 gam kết tủa. Giá trị của V là?",
+    "options": {
+      "A": "300.",
+      "B": "75.",
+      "C": "200.",
+      "D": "150."
+    }
+  },
+  {
+    "id": "Câu 39",
+    "question_text": "X có công thức phân tử là C4H9NO2, Y, Z là hai peptit (MY < MZ) có số nguyên tử nitơ liên tiếp nhau, X, Y, Z đều ở dạng mạch hở. Cho 58,57 gam hỗn hợp A gồm X, Y, Z tác dụng vừa đủ với 0,69 mol NaOH, sau phản ứng thu được 70,01 gam ba muối của glyxin, alanin, valin (trong đó có ... (câu hỏi bị cắt cụt)"
+  },
+  {
+    "id": "Câu 40",
+    "question_text": "Hỗn hợp E gồm este X có công thức phân tử CnH2n-2O2 (chứa vòng benzen), este Y (no, đơn chức, mạch hở) và peptit Z. Cho 30,5 gam E tác dụng vừa đủ với 260 ml dung dịch NaOH 1,5M, thu được ancol T và dung dịch F. Dẫn hết T qua bình đựng Na dư, thu được 0,07 mol H2. Cô cạn dung dịch F, thu được 41,5 gam chất rắn khan. Phần trăm khối lượng của X trong E gần nhất với",
+    "options": {
+      "A": "42%.",
+      "B": "45%.",
+      "C": "40%.",
+      "D": "48%."
+    }
+  }
+]

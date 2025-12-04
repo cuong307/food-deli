@@ -1,0 +1,496 @@
+[
+  {
+    "id": "Câu 1",
+    "question_text": "Cho cân bằng hoá học: 2SO2(k) + O2(k) ⇌ 2SO3(k). Cân bằng trên sẽ chuyển dịch theo chiều thuận khi thay đổi yếu tố nào sau đây:",
+    "options": {
+      "A": "Giảm áp suất.",
+      "B": "Dùng chất xúc tác.",
+      "C": "Tăng nồng độ SO2.",
+      "D": "Tăng nhiệt độ."
+    }
+  },
+  {
+    "id": "Câu 2",
+    "question_text": "Kim loại nào sau đây không khử được nước ở nhiệt độ thường:",
+    "options": {
+      "A": "Mg",
+      "B": "Ba",
+      "C": "Be",
+      "D": "Ca"
+    }
+  },
+  {
+    "id": "Câu 3",
+    "question_text": "Phát biểu không đúng là:",
+    "options": {
+      "A": "Dung dịch HO-CHO không làm đổi màu quỳ...",
+      "B": "Dung dịch HO-CHO có tính axit mạnh hơn H2CO3.",
+      "C": "Axit axetic là chất lỏng, tan vô hạn trong nước.",
+      "D": "Phản ứng của axit axetic với ancol etylic là phản ứng thuận nghịch."
+    }
+  },
+  {
+    "id": "Câu 4",
+    "question_text": "Kim loại nào sau đây có tính khử mạnh nhất?",
+    "options": {
+      "A": "Fe",
+      "B": "Cu",
+      "C": "Mg",
+      "D": "Ag"
+    }
+  },
+  {
+    "id": "Câu 5",
+    "question_text": "Chất nào sau đây không có phản ứng tráng bạc?",
+    "options": {
+      "A": "Saccarozơ.",
+      "B": "Glucozơ.",
+      "C": "Fructozơ.",
+      "D": "Axit fomic."
+    }
+  },
+  {
+    "id": "Câu 6",
+    "question_text": "Chất nào sau đây có tính bazơ mạnh nhất?",
+    "options": {
+      "A": "NH3",
+      "B": "C6H5NH2",
+      "C": "(CH3)2NH",
+      "D": "CH3NH2"
+    }
+  },
+  {
+    "id": "Câu 7",
+    "question_text": "Số obitan trong phân lớp d là:",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    }
+  },
+  {
+    "id": "Câu 8",
+    "question_text": "Nguyên tố M thuộc chu kì 3, nhóm VIIA. Công thức oxit cao nhất của M là:",
+    "options": {
+      "A": "M2O7.",
+      "B": "MO3.",
+      "C": "MO2.",
+      "D": "M2O5."
+    }
+  },
+  {
+    "id": "Câu 9",
+    "question_text": "Thủy phân chất béo trong dung dịch NaOH (đun nóng) thu được glixerol và",
+    "options": {
+      "A": "Ancol.",
+      "B": "Axit béo.",
+      "C": "Muối của axit béo.",
+      "D": "Muối của axit vô cơ."
+    }
+  },
+  {
+    "id": "Câu 10",
+    "question_text": "Phát biểu không đúng là:",
+    "options": {
+      "A": "Fe tan được trong dung dịch Fe2(SO4)3.",
+      "B": "Cho bột Fe vào dung dịch H2SO4 đặc, nguội vẫn có khí bay ra.",
+      "C": "Fe tan được trong dung dịch CuSO4.",
+      "D": "Cho bột Cu vào dung dịch Fe2(SO4)3 có phản ứng xảy ra."
+    }
+  },
+  {
+    "id": "Câu 11",
+    "question_text": "Chất nào sau đây không thể hiện tính khử?",
+    "options": {
+      "A": "Fe.",
+      "B": "Fe2+.",
+      "C": "Fe3+.",
+      "D": "FeCl2."
+    }
+  },
+  {
+    "id": "Câu 12",
+    "question_text": "Hòa tan hoàn toàn 2,4 gam Mg bằng dung dịch H2SO4 loãng (dư), thu được V lít khí H2 (đktc). Giá trị của V là:",
+    "options": {
+      "A": "3,36.",
+      "B": "2,24.",
+      "C": "1,12.",
+      "D": "4,48."
+    }
+  },
+  {
+    "id": "Câu 13",
+    "question_text": "Nhiệt phân hoàn toàn Fe(OH)3 đến khối lượng không đổi thu được chất rắn là:",
+    "options": {
+      "A": "FeO.",
+      "B": "Fe3O4.",
+      "C": "Fe2O3.",
+      "D": "Fe(OH)3."
+    }
+  },
+  {
+    "id": "Câu 14",
+    "question_text": "Chất nào sau đây tác dụng với dung dịch NaOH sinh ra khí?",
+    "options": {
+      "A": "Al2O3.",
+      "B": "Al.",
+      "C": "Mg.",
+      "D": "Fe."
+    }
+  },
+  {
+    "id": "Câu 15",
+    "question_text": "Dãy gồm các chất đều có khả năng làm mất màu dung dịch brom là:",
+    "options": {
+      "A": "Anilin, stiren, metylamin.",
+      "B": "Phenol, anilin, anđehit axetic.",
+      "C": "Benzen, anilin, anđehit axetic.",
+      "D": "Ancol etylic, phenol, stiren."
+    }
+  },
+  {
+    "id": "Câu 16",
+    "question_text": "Chất nào sau đây không tan trong nước?",
+    "options": {
+      "A": "Saccarozơ.",
+      "B": "Axit axetic.",
+      "C": "Tinh bột.",
+      "D": "Ancol etylic."
+    }
+  },
+  {
+    "id": "Câu 17",
+    "question_text": "Phát biểu đúng là:",
+    "options": {
+      "A": "Nhỏ dung dịch I2 vào hồ tinh bột thấy xuất hiện màu tím.",
+      "B": "Dung dịch lòng trắng trứng có phản ứng màu biure.",
+      "C": "Đồng trùng hợp buta-1,3-đien và stiren thu được cao su buna.",
+      "D": "Thủy phân xenlulozơ thu được fructozơ."
+    }
+  },
+  {
+    "id": "Câu 18",
+    "question_text": "Đốt cháy hoàn toàn este X (no, đơn chức, mạch hở) thu được 3,36 lít khí CO2 (đktc) và 2,7 gam H2O. Công thức phân tử của X là:",
+    "options": {
+      "A": "C2H4O2.",
+      "B": "C3H6O2.",
+      "C": "C4H8O2.",
+      "D": "C5H10O2."
+    }
+  },
+  {
+    "id": "Câu 19",
+    "question_text": "Cho 10 gam CaCO3 tác dụng hết với dung dịch HCl. Khí CO2 thu được có thể tích (đktc) là:",
+    "options": {
+      "A": "2,24 lít.",
+      "B": "4,48 lít.",
+      "C": "1,12 lít.",
+      "D": "3,36 lít."
+    }
+  },
+  {
+    "id": "Câu 20",
+    "question_text": "Dung dịch nào sau đây tác dụng với Al tạo khí H2?",
+    "options": {
+      "A": "FeCl3.",
+      "B": "NaNO3.",
+      "C": "CuSO4.",
+      "D": "KOH."
+    }
+  },
+  {
+    "id": "Câu 21",
+    "question_text": "Kim loại nào sau đây được điều chế bằng phương pháp điện phân nóng chảy?",
+    "options": {
+      "A": "Fe.",
+      "B": "Cu.",
+      "C": "Al.",
+      "D": "Ag."
+    }
+  },
+  {
+    "id": "Câu 22",
+    "question_text": "Chất nào sau đây dùng để làm mềm nước có tính cứng vĩnh cửu?",
+    "options": {
+      "A": "Ca(OH)2.",
+      "B": "Na2CO3.",
+      "C": "HCl.",
+      "D": "NaCl."
+    }
+  },
+  {
+    "id": "Câu 23",
+    "question_text": "Phát biểu đúng là:",
+    "options": {
+      "A": "Thủy phân metyl axetat trong môi trường axit thu được ancol metylic và axit axetic.",
+      "B": "Axit béo là những axit no, đơn chức, mạch hở.",
+      "C": "Glucozơ thuộc loại đisaccarit.",
+      "D": "Tơ nilon-6,6 thuộc loại tơ thiên nhiên."
+    }
+  },
+  {
+    "id": "Câu 24",
+    "question_text": "Công thức của thạch cao nung là:",
+    "options": {
+      "A": "CaSO4.",
+      "B": "CaSO4.2H2O.",
+      "C": "CaSO4.H2O.",
+      "D": "CaSO4.0,5H2O."
+    }
+  },
+  {
+    "id": "Câu 25",
+    "question_text": "Sục khí CO2 vào dung dịch Ba(OH)2. Hiện tượng nào sau đây không xảy ra?",
+    "options": {
+      "A": "Có kết tủa trắng tạo thành.",
+      "B": "Ban đầu có kết tủa trắng, sau đó kết tủa tan dần.",
+      "C": "Không có hiện tượng gì xảy ra.",
+      "D": "Dung dịch bị đục."
+    }
+  },
+  {
+    "id": "Câu 26",
+    "question_text": "Dung dịch nào sau đây có màu:",
+    "options": {
+      "A": "N2",
+      "B": "NO2",
+      "C": "NH3",
+      "D": "CO2"
+    }
+  },
+  {
+    "id": "Câu 27",
+    "question_text": "Cho các nhận định sau: (1) Số liên kết cộng hóa trị trong phân tử N2 là 3. (2) Trong phân tử H2SO4 có 2 liên kết đôi S=O. (3) Oxi hóa hoàn toàn SO2 bằng O2 có xúc tác V2O5 thu được SO3. (4) SO2 vừa có tính khử, vừa có tính oxi hóa. Số nhận định đúng là:",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "1"
+    }
+  },
+  {
+    "id": "Câu 28",
+    "question_text": "Cho các chất sau: (1) Tristearin, (2) Poli(metyl metacrylat), (3) Amilozơ, (4) Thủy tinh hữu cơ. Số chất có thể bị thủy phân trong môi trường axit là:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    }
+  },
+  {
+    "id": "Câu 29",
+    "question_text": "Cho các chất: Al, Al2O3, AlCl3, Al(OH)3. Số chất tác dụng được với dung dịch NaOH là:",
+    "options": {
+      "A": "2.",
+      "B": "3.",
+      "C": "4.",
+      "D": "1."
+    }
+  },
+  {
+    "id": "Câu 30",
+    "question_text": "Hỗn hợp X gồm Fe3O4 và Cu (tỉ lệ mol 1:1). Cho X vào dung dịch HCl (dư). Sau khi các phản ứng xảy ra hoàn toàn, thu được dung dịch Y và chất rắn Z. Phát biểu đúng là:",
+    "options": {
+      "A": "Cho dung dịch AgNO3 dư vào Y thu được 2 kết tủa.",
+      "B": "Chất rắn Z tan hết trong dung dịch H2SO4 đặc nóng.",
+      "C": "Cho Na vào dung dịch Y thu được khí H2.",
+      "D": "Chất rắn Z là Cu."
+    }
+  },
+  {
+    "id": "Câu 31",
+    "question_text": "Cho các phát biểu sau: (1) Anilin là chất lỏng, tan vô hạn trong nước. (2) Chất béo nhẹ hơn nước, không tan trong nước. (3) Glyxin tác dụng được với dung dịch NaOH. (4) Tơ nilon-6,6 được tổng hợp bằng phản ứng trùng ngưng. Số phát biểu đúng là:",
+    "options": {
+      "A": "3.",
+      "B": "2.",
+      "C": "4.",
+      "D": "1."
+    }
+  },
+  {
+    "id": "Câu 32",
+    "question_text": "Cho m gam glucozơ tác dụng với dung dịch AgNO3/NH3 (dư), sau khi phản ứng xảy ra hoàn toàn thu được 21,6 gam Ag. Giá trị của m là:",
+    "options": {
+      "A": "36,0.",
+      "B": "18,0.",
+      "C": "16,2.",
+      "D": "9,0."
+    }
+  },
+  {
+    "id": "Câu 33",
+    "question_text": "Đốt cháy hoàn toàn a mol triglixerit X bằng lượng oxi vừa đủ, thu được b mol CO2 và c mol H2O. Biết b - c = 5a. Hiđro hóa hoàn toàn m gam X cần dùng 0,4 mol H2 (xúc tác Ni, t°), thu được 76,8 gam triglixerit Y. Công thức của axit béo tạo nên Y là:",
+    "options": {
+      "A": "C17H35COOH.",
+      "B": "C17H33COOH.",
+      "C": "C15H31COOH.",
+      "D": "C17H31COOH."
+    }
+  },
+  {
+    "id": "Câu 34",
+    "question_text": "Chất X có công thức phân tử C8H8O2, thỏa mãn sơ đồ sau: X + NaOH (dư) → Y + Z; Y + H2SO4 → T + Na2SO4; T + AgNO3/NH3 → Ag. Phát biểu đúng là:",
+    "options": {
+      "A": "Chất T làm mất màu dung dịch Br2.",
+      "B": "Phân tử khối của X bằng 136.",
+      "C": "Chất Z có khả năng phản ứng với Cu(OH)2.",
+      "D": "Chất Z là C6H5CH2OH."
+    }
+  },
+  {
+    "id": "Câu 35",
+    "question_text": "Hỗn hợp X gồm Fe, Mg, Al và ZnO. Hòa tan hoàn toàn 37,2 gam X bằng dung dịch HNO3 (loãng, dư), thu được dung dịch Y và 8,96 lít hỗn hợp khí Z (đktc) gồm NO và N2O (tỉ khối của Z so với H2 là 16,75). Cô cạn dung dịch Y thu được 133,4 gam muối khan (không có muối NH4NO3). Phần trăm khối lượng của Fe trong X có giá trị gần nhất với:",
+    "options": {
+      "A": "29%.",
+      "B": "30%.",
+      "C": "31%.",
+      "D": "32%."
+    }
+  },
+  {
+    "id": "Câu 36",
+    "question_text": "Cho 2,16 gam Al tan hết trong dung dịch hỗn hợp chứa 0,08 mol Fe(NO3)3 và V lít dung dịch H2SO4 0,1M, thu được khí NO (sản phẩm khử duy nhất của N+5, đktc) và dung dịch X (chỉ chứa các muối sunfat và nitrat). Cho dung dịch BaCl2 dư vào dung dịch X, thu được 16,33 gam kết tủa. Giá trị của V là:",
+    "options": {
+      "A": "0,8.",
+      "B": "0,7.",
+      "C": "0,6.",
+      "D": "0,5."
+    }
+  },
+  {
+    "id": "Câu 37",
+    "question_text": "Cho các phát biểu sau: (1) Oxi hóa hoàn toàn Fe(OH)2 trong không khí thu được Fe(OH)3. (2) Cho dung dịch NaOH vào dung dịch CrCl3 thấy xuất hiện kết tủa màu xanh lục, sau đó kết tủa tan dần. (3) Dùng CO2 để phân biệt AlCl3 và NaCl. (4) Trong công nghiệp, nhôm được điều chế bằng phương pháp điện phân Al2O3 nóng chảy. Số phát biểu đúng là:",
+    "options": {
+      "A": "4.",
+      "B": "3.",
+      "C": "2.",
+      "D": "1."
+    }
+  },
+  {
+    "id": "Câu 38",
+    "question_text": "Hỗn hợp X gồm 2 este (no, đơn chức, mạch hở, là đồng phân của nhau) và 1 axit cacboxylic (no, đơn chức, mạch hở). Đốt cháy hoàn toàn 0,1 mol X cần dùng 0,385 mol O2 thu được 0,3 mol CO2. Đun nóng 0,1 mol X với 180 ml dung dịch NaOH 1M. Sau khi phản ứng xảy ra hoàn toàn, cô cạn dung dịch thu được 13,05 gam chất rắn khan. Phần trăm khối lượng của este có phân tử khối lớn hơn trong X là:",
+    "options": {
+      "A": "37,50%.",
+      "B": "28,12%.",
+      "C": "45,00%.",
+      "D": "30,00%."
+    }
+  },
+  {
+    "id": "Câu 39",
+    "question_text": "Cho 12,9 gam hỗn hợp X gồm Al và Zn tan hoàn toàn trong dung dịch HNO3 (loãng, dư), thu được dung dịch Y và 4,48 lít khí NO (sản phẩm khử duy nhất, đktc). Số mol HNO3 đã phản ứng là:",
+    "options": {
+      "A": "0,6 mol.",
+      "B": "0,5 mol.",
+      "C": "0,7 mol.",
+      "D": "0,8 mol."
+    }
+  },
+  {
+    "id": "Câu 40",
+    "question_text": "Hỗn hợp T gồm peptit X (Ala-Val-Gly) và pentapeptit Y (Val-Gly-Ala-Val-Gly). Đốt cháy hoàn toàn m gam T thu được 26,88 lít CO2 (đktc) và 20,7 gam H2O. Mặt khác, đun nóng m gam T với 400 ml dung dịch NaOH 1M, cô cạn dung dịch sau phản ứng thu được a gam chất rắn khan. Giá trị của a là:",
+    "options": {
+      "A": "32,9.",
+      "B": "34,9.",
+      "C": "30,1.",
+      "D": "31,9."
+    }
+  },
+  {
+    "id": "Câu 41",
+    "question_text": "X, Y là hai axit cacboxylic đơn chức (M_X < M_Y, X no, Y không no có một liên kết C=C); Z là ancol no, hai chức. Đốt cháy hoàn toàn 13,2 gam hỗn hợp E chứa X, Y, Z cần dùng 0,55 mol O2, thu được 0,5 mol CO2 và 0,46 mol H2O. Mặt khác, cho 13,2 gam E tác dụng với 120 ml dung dịch NaOH 1M, cô cạn dung dịch sau phản ứng thu được 11,28 gam chất rắn khan. Phần trăm khối lượng của X trong E là:",
+    "options": {
+      "A": "46,97%.",
+      "B": "35,15%.",
+      "C": "40,00%.",
+      "D": "50,00%."
+    }
+  },
+  {
+    "id": "Câu 42",
+    "question_text": "Hỗn hợp X gồm Fe, Mg, Fe3O4 và CuO. Hòa tan hoàn toàn 29,8 gam X bằng dung dịch H2SO4 loãng (dư), thu được dung dịch Y và 3,36 lít khí H2 (đktc). Cô cạn dung dịch Y thu được m gam muối khan. Giá trị của m là:",
+    "options": {
+      "A": "71,0.",
+      "B": "74,0.",
+      "C": "77,0.",
+      "D": "76,6."
+    }
+  },
+  {
+    "id": "Câu 43",
+    "question_text": "Cho các phát biểu sau: (1) Dung dịch AlCl3, CuCl2, FeCl3 đều làm quỳ tím hóa đỏ. (2) Sục khí CO2 vào dung dịch NaAlO2 thấy xuất hiện kết tủa trắng, kết tủa không tan khi sục CO2 dư. (3) Dùng Cu(OH)2 để nhận biết glucozơ, glixerol và anđehit axetic. (4) Metylamin, đimetylamin, trimetylamin đều là chất lỏng ở điều kiện thường. (5) Cao su buna-S có tính đàn hồi cao hơn cao su buna-N. Số phát biểu đúng là:",
+    "options": {
+      "A": "3.",
+      "B": "4.",
+      "C": "5.",
+      "D": "2."
+    }
+  },
+  {
+    "id": "Câu 44",
+    "question_text": "Este X có công thức phân tử C7H12O4. Thủy phân hoàn toàn X trong dung dịch NaOH (dư) thu được Y, Z và 22,2 gam hỗn hợp T gồm hai ancol. Trong đó Y là muối có công thức C3H4O4Na2; Z là muối của axit đơn chức; hai ancol trong T là đồng đẳng kế tiếp. Phân tử khối của X là:",
+    "options": {
+      "A": "160.",
+      "B": "180.",
+      "C": "146.",
+      "D": "156."
+    }
+  },
+  {
+    "id": "Câu 45",
+    "question_text": "Hỗn hợp X gồm CH2=CHCHO và H2. Cho hỗn hợp X vào bình kín (có bột Ni) nung nóng, được hỗn hợp Y chỉ có hai hợp chất hữu cơ. Đốt cháy hết Y thu được 6,72 lít khí CO2 (ở đktc) và 6,30 gam H2O. Phần trăm khối lượng của H2 có trong hỗn hợp X là",
+    "options": {
+      "A": "9,48%.",
+      "B": "6,92%.",
+      "C": "5,08%.",
+      "D": "4,120%."
+    }
+  },
+  {
+    "id": "Câu 46",
+    "question_text": "Cho các thí nghiệm sau: (a) Đimetylaxetilen + dung dịch AgNO3/NH3 → (b) Fructozơ + dung dịch AgNO3/NH3 (đun nóng) → (c) Toluen + dung dịch KMnO4 (đun nóng) → (d) Phenol + dung dịch Br2 → (e) Vinylaxetilen + dung dịch AgNO3/NH3 → Số thí nghiệm tạo ra kết tủa là",
+    "options": {
+      "A": "2.",
+      "B": "3.",
+      "C": "4.",
+      "D": "1."
+    }
+  },
+  {
+    "id": "Câu 47",
+    "question_text": "Cho các chất sau: Ca(HCO3)2, Al, (NH4)2CO3, Al2O3, Al(OH)3, Zn, CH3COONH4, CrO, Cr2O3, AlCl3. Số chất lưỡng tính là:",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "5",
+      "D": "7"
+    }
+  },
+  {
+    "id": "Câu 48",
+    "question_text": "Điện phân hoàn toàn dung dịch chứa 0... (câu hỏi bị cắt cụt)"
+  },
+  {
+    "id": "Câu 49",
+    "question_text": "Hòa tan hết 43,45 gam hỗn hợp X gồm FeCl3, Cu(NO3)2, Fe2(SO4)3 và Fe3O4 trong dung dịch chứa 0,81 mol HCl, thu được dung dịch Y chỉ chứa 3 muối và 0,02 mol khí NO (sản phẩm khử duy nhất của N+5). Cho dung dịch AgNO3 dư vào Y thu được 114,34 gam kết tủa. Phần trăm khối lượng của Fe3O4 trong X có giá trị gần nhất với:",
+    "options": {
+      "A": "22%",
+      "B": "25%",
+      "C": "20%",
+      "D": "23%"
+    }
+  },
+  {
+    "id": "Câu 50",
+    "question_text": "Cho 28,16 gam hỗn hợp X gồm Fe, Fe3O4, FeCO3 và FeS. Cho X tác dụng hết với dung dịch H2SO4 đặc nóng (dư), thu được dung dịch Y và 17,472 lít hỗn hợp khí Z (đktc) gồm CO2 và SO2. Tỉ khối của Z so với H2 bằng 267/18. Cô cạn dung dịch Y, thu được m gam muối khan. Giá trị của m là:",
+    "options": {
+      "A": "71,44",
+      "B": "85,60",
+      "C": "69,12",
+      "D": "74,40"
+    }
+  }
+]

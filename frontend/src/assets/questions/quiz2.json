@@ -1,0 +1,402 @@
+[
+  {
+    "id": "Câu 1",
+    "question_text": "Chất nào sau đây vừa tác dụng được với H2NCH2COOH, vừa tác dụng với CH3NH2?",
+    "options": {
+      "A": "NaCl.",
+      "B": "HCl.",
+      "C": "CH3OH.",
+      "D": "NaOH."
+    }
+  },
+  {
+    "id": "Câu 2",
+    "question_text": "Chất nào sau đây là este?",
+    "options": {
+      "A": "CH3CHO.",
+      "B": "C2H5OCH3.",
+      "C": "CH3COOC2H5.",
+      "D": "CH3COOH."
+    }
+  },
+  {
+    "id": "Câu 3",
+    "question_text": "Cho chất X tác dụng với một lượng vừa đủ dung dịch NaOH, sau đó cô cạn dung dịch thu được chất rắn Y và chất hữu cơ Z. Cho Z tác dụng với AgNO3 /NH3 thu được chất hữu cơ T. Cho chất T tác dụng với dung dịch NaOH lại thu được chất Y. Chất X có thể là",
+    "options": {
+      "A": "CH3COOCH=CH2.",
+      "B": "HCOOCH=CH2.",
+      "C": "HCOOCH3.",
+      "D": "CH3COOCH=CH-CH3."
+    }
+  },
+  {
+    "id": "Câu 4",
+    "question_text": "Số đồng phân cấu tạo mạch hở có cùng công thức C4H8O2 tác dụng được với dung dịch NaOH nhưng không tác dụng với NaHCO3 là",
+    "options": {
+      "A": "6.",
+      "B": "3.",
+      "C": "5.",
+      "D": "4."
+    }
+  },
+  {
+    "id": "Câu 5",
+    "question_text": "Loại tơ nào sau đây thuộc tơ thiên nhiên.",
+    "options": {
+      "A": "Nilon-6,6.",
+      "B": "Tơ visco.",
+      "C": "Tơ tằm.",
+      "D": "Tơ lapsan."
+    }
+  },
+  {
+    "id": "Câu 6",
+    "question_text": "Chất phản ứng được với Cu(OH)2/OH- ở điều kiện thường tạo thành sản phẩm có màu tím là",
+    "options": {
+      "A": "saccarozơ.",
+      "B": "Gly - Ala - Val.",
+      "C": "glixerol.",
+      "D": "anđehit axetic."
+    }
+  },
+  {
+    "id": "Câu 7",
+    "question_text": "Cho X, Y, Z, T là các chất khác nhau trong số 4 chất: CH3NH2, NH3, C6H5OH (phenol), C6H5NH2 (anilin) và các tính chất được ghi trong bảng sau: (Bảng không được hiển thị đầy đủ trong trích đoạn) Nhận xét nào sau đây đúng?",
+    "options": {
+      "A": "Z là CH3NH2.",
+      "B": "T là C6H5NH2.",
+      "C": "Y là C6H5OH.",
+      "D": "X là NH3."
+    }
+  },
+  {
+    "id": "Câu 8",
+    "question_text": "Dãy nào sau đây gồm các chất sắp xếp theo thứ tự tăng dần lực bazơ?",
+    "options": {
+      "A": "Anilin, metyl amin, amoniac.",
+      "B": "Anilin, amoniac, metyl amin.",
+      "C": "Amoniac, etyl amin, anilin.",
+      "D": "Etyl amin, anilin, amoniac."
+    }
+  },
+  {
+    "id": "Câu 9",
+    "question_text": "Để chứng minh trong glucozơ có nhiều nhóm -OH, người ta sử dụng phản ứng nào sau đây?",
+    "options": {
+      "A": "AgNO3/NH3, t°.",
+      "B": "CH3OH/HCl.",
+      "C": "Na.",
+      "D": "Cu(OH)2, t° thường."
+    }
+  },
+  {
+    "id": "Câu 10",
+    "question_text": "Phát biểu nào sau đây không đúng?",
+    "options": {
+      "A": "Saccarozơ phản ứng với dung dịch AgNO3/NH3, đun nóng tạo kết tủa Ag.",
+      "B": "Glucozơ phản ứng với Cu(OH)2 ở nhiệt độ thường tạo dung dịch màu xanh lam.",
+      "C": "Khi thuỷ phân hoàn toàn tinh bột thu được glucozơ.",
+      "D": "Glucozơ và fructozơ là đồng phân của nhau."
+    }
+  },
+  {
+    "id": "Câu 11",
+    "question_text": "Tripanmitin có công thức là",
+    "options": {
+      "A": "(C15H31COO)3C3H5.",
+      "B": "(C17H35COO)3C3H5.",
+      "C": "(C17H33COO)3C3H5.",
+      "D": "(C17H31COO)3C3H5."
+    }
+  },
+  {
+    "id": "Câu 12",
+    "question_text": "Loại đường nào sau đây có nhiều trong cây mía:",
+    "options": {
+      "A": "mantozơ.",
+      "B": "glucozơ.",
+      "C": "saccarozơ.",
+      "D": "fructozơ."
+    }
+  },
+  {
+    "id": "Câu 13",
+    "question_text": "Glyxin có công thức cấu tạo thu gọn là",
+    "options": {
+      "A": "CH3NH2.",
+      "B": "NH2CH2COOH.",
+      "C": "C2H5NH2.",
+      "D": "H2NCH(CH3)COOH."
+    }
+  },
+  {
+    "id": "Câu 14",
+    "question_text": "Chất nào sau đây thuộc loại amin bậc một?",
+    "options": {
+      "A": "(CH3)3CNH2.",
+      "B": "CH3CH2OH.",
+      "C": "(CH3)3N.",
+      "D": "CH3CH2NHCH3."
+    }
+  },
+  {
+    "id": "Câu 15",
+    "question_text": "X có công thức cấu tạo CH2 = CH - COOCH3. Tên gọi của X là:",
+    "options": {
+      "A": "vinyl axetat.",
+      "B": "metyl acrylat.",
+      "C": "metyl fomat.",
+      "D": "metyl axetat."
+    }
+  },
+  {
+    "id": "Câu 16",
+    "question_text": "Cho este X (C8H8O2) tác dụng với lượng dư dd KOH thu được hai muối hữu cơ và H2O. X có tên gọi là",
+    "options": {
+      "A": "metyl benzoat.",
+      "B": "phenyl axetat.",
+      "C": "phenyl fomat.",
+      "D": "benzyl fomat."
+    }
+  },
+  {
+    "id": "Câu 17",
+    "question_text": "Phát biểu nào sau đây là sai?",
+    "options": {
+      "A": "Chất béo không tan trong nước, nhẹ hơn nước nhưng tan nhiều trong dung môi hữu cơ.",
+      "B": "Chất béo lỏng có phản ứng cộng H2.",
+      "C": "Trong công nghiệp, một lượng lớn chất béo dùng để điều chế xà phòng và glixerol.",
+      "D": "Chất béo rắn được tạo nên từ các gốc axit béo không no."
+    }
+  },
+  {
+    "id": "Câu 18",
+    "question_text": "Cho dãy các chất: glucozơ, xenlulozơ, saccarozơ, tinh bột, fructozơ, natri fomat. Số chất trong dãy tham gia phản ứng tráng gương là :",
+    "options": {
+      "A": "2.",
+      "B": "4.",
+      "C": "3.",
+      "D": "5."
+    }
+  },
+  {
+    "id": "Câu 19",
+    "question_text": "C3H7O2N + NaOH → (X) + CH3OH. CTCT của X là",
+    "options": {
+      "A": "CH3COONH4.",
+      "B": "NH2CH2COONa.",
+      "C": "H2NCH2CH2COONa.",
+      "D": "H2NCH2COOCH3."
+    }
+  },
+  {
+    "id": "Câu 20",
+    "question_text": "Cho dãy các dung dịch: glucozơ, saccarozơ, etanol, glixerol. Số dung dịch trong dãy phản ứng được với Cu(OH)2 ở nhiệt độ thường tạo thành dung dịch có màu xanh lam là",
+    "options": {
+      "A": "4.",
+      "B": "1.",
+      "C": "3.",
+      "D": "2."
+    }
+  },
+  {
+    "id": "Câu 21",
+    "question_text": "Chất không tham gia phản ứng trùng hợp là",
+    "options": {
+      "A": "caprolactam.",
+      "B": "stiren.",
+      "C": "toluen.",
+      "D": "etilen."
+    }
+  },
+  {
+    "id": "Câu 22",
+    "question_text": "Cho các phát biểu sau: (1) Ở nhiệt độ thường, Cu(OH)2 tan được trong dung dịch etylenglicol. (2) Ở nhiệt độ thường, C2H4 phản ứng được với nước brom. (3) Đốt cháy hoàn toàn CH3COOCH3 thu được số mol CO2 bằng số mol H2O. (4) Glyxin (H2NCH2COOH) phản ứng được với dung dịch NaOH. (5) Ở nhiệt độ thường CH3CHO phản ứng với dung dịch Br2 trong CCl4. Số phát biểu đúng là",
+    "options": {
+      "A": "4.",
+      "B": "3.",
+      "C": "1.",
+      "D": "2."
+    }
+  },
+  {
+    "id": "Câu 23",
+    "question_text": "Dung dịch của hợp chất nào sau đây không làm đổi màu giấy quì ẩm?",
+    "options": {
+      "A": "CH3NH2.",
+      "B": "H2N-CH2-CH(NH2)COOH.",
+      "C": "C6H5ONa.",
+      "D": "H2NCH2COOH."
+    }
+  },
+  {
+    "id": "Câu 24",
+    "question_text": "Thủy phân hoàn toàn 1 mol pentapeptit X thu được 2 mol glyxin, 1 mol alanin, 1 mol valin và 1 mol phelylalanin. Thủy phân không hoàn toàn X được đipeptit: Val-Phe và Tripeptit: Gly-Ala-Val, không thu được Gly-Gly. X là:",
+    "options": {
+      "A": "Gly-Ala-Val-Phe-Gly.",
+      "B": "Gly-Phe-Gly-Ala-Val.",
+      "C": "Gly-Ala-Val-Val-Phe.",
+      "D": "Val-Phe-Gly-Ala-Gly."
+    }
+  },
+  {
+    "id": "Câu 25",
+    "question_text": "Đốt cháy hoàn toàn 6 gam este X bằng lượng O2 vừa đủ, thu được 4,48 lít khí CO2 (đktc) và 3,6 gam H2O. Công thức phân tử của X là",
+    "options": {
+      "A": "C3H6O2.",
+      "B": "C2H4O2.",
+      "C": "C4H6O2.",
+      "D": "C4H8O2."
+    }
+  },
+  {
+    "id": "Câu 26",
+    "question_text": "Cho 0,15 mol H2N-C3H5(COOH)2 vào 175 ml HCl 2M thu được dung dịch X. Cho NaOH dư vào X. Sau phản ứng hoàn toàn số mol NaOH phản ứng là:",
+    "options": {
+      "A": "0,5.",
+      "B": "0,7.",
+      "C": "0,65.",
+      "D": "0,55."
+    }
+  },
+  {
+    "id": "Câu 27",
+    "question_text": "Cho 7,4 gam hỗn hợp tất cả các chất đồng phân C3H6O2 (đơn chức, mạch hở, có cùng số mol) phản ứng với NaHCO3 (dư). Thể tích CO2 thu được ở (đktc) là",
+    "options": {
+      "A": "2,24 lít.",
+      "B": "1,12 lít.",
+      "C": "0,75 lít.",
+      "D": "0,56 lít."
+    }
+  },
+  {
+    "id": "Câu 28",
+    "question_text": "Xà phòng hoá hoàn toàn 14,8 gam hỗn hợp 2 este là HCOOC2H5 và CH3COOCH3 bằng một lượng dung dịch NaOH vừa đủ, đun nóng. Khối lượng NaOH cần dùng là.",
+    "options": {
+      "A": "4,0g.",
+      "B": "12,0g.",
+      "C": "16,0g.",
+      "D": "8,0g."
+    }
+  },
+  {
+    "id": "Câu 29",
+    "question_text": "Khối lượng dung dịch HCl 7,3% cần để tác dụng hết với 4,5 gam etylamin là:",
+    "options": {
+      "A": "3,65 gam.",
+      "B": "36,5 gam.",
+      "C": "7,3 gam.",
+      "D": "50 gam."
+    }
+  },
+  {
+    "id": "Câu 30",
+    "question_text": "Đốt cháy hoàn toàn m gam một chất béo (triglixerit) cần 1,61 mol O2, sinh ra 1,14 mol CO2 và 1,06 mol H2O. Cho 7,088 gam chất béo này tác dụng vừa đủ với dung dịch NaOH thì khối lượng muối tạo thành là :",
+    "options": {
+      "A": "7,612 gam.",
+      "B": "7,412 gam.",
+      "C": "7,512 gam.",
+      "D": "7,312 gam."
+    }
+  },
+  {
+    "id": "Câu 31",
+    "question_text": "X là một tripeptit được tạo thành từ 1 aminoaxit no, mạch hở có 1 nhóm -COOH và 1 nhóm -NH2. Đốt cháy hoàn toàn 0,3 mol X cần 2,025 mol O2 thu được sản phẩm gồm CO2, H2O, N2. Vậy công thức của amino axit tạo nên X là",
+    "options": {
+      "A": "H2NC3H6COOH.",
+      "B": "H2NC2H4COOH.",
+      "C": "H2NCH2COOH.",
+      "D": "H2N-COOH."
+    }
+  },
+  {
+    "id": "Câu 32",
+    "question_text": "Trùng hợp m tấn etilen thu được 1 tấn polietilen (PE) với hiệu suất phản ứng bằng 80%. Giá trị của m là",
+    "options": {
+      "A": "1,25.",
+      "B": "0,80.",
+      "C": "1,80.",
+      "D": "2,00."
+    }
+  },
+  {
+    "id": "Câu 33",
+    "question_text": "Cho m gam glucozơ phản ứng hoàn toàn với lượng dư dung dịch AgNO3 trong NH3 (đun nóng), thu được 21,6 gam Ag. Giá trị của m là",
+    "options": {
+      "A": "18,0.",
+      "B": "9,0.",
+      "C": "36,0.",
+      "D": "16,2."
+    }
+  },
+  {
+    "id": "Câu 34",
+    "question_text": "Từ 5 kg gạo nếp (có 81% tinh bột) khi lên men sẽ thu được bao nhiêu lít cồn 92°? Biết hiệu suất toàn bộ quá trình lên men đạt 80% và khối lượng riêng của ancol etylic là 0,8 g/ml",
+    "options": {
+      "A": "2,116 lít.",
+      "B": "2,500 lít.",
+      "C": "2,208 lít.",
+      "D": "2,000 lít."
+    }
+  },
+  {
+    "id": "Câu 35",
+    "question_text": "Cho 21 gam hỗn hợp gồm glyxin và axit axetic tác dụng vừa đủ với dung dịch KOH, thu được dung dịch X chứa 32,4 gam muối. Cho X tác dụng với dung dịch HCl dư, thu được dung dịch chứa m gam muối. Giá trị của m là",
+    "options": {
+      "A": "22,35.",
+      "B": "44,65.",
+      "C": "33,50.",
+      "D": "50,65."
+    }
+  },
+  {
+    "id": "Câu 36",
+    "question_text": "Xà phòng hoá hoàn toàn m gam một este no, đơn chức, mạch hở E bằng 26 gam dung dịch MOH 28% (M là kim loại kiềm). Cô cạn hỗn hợp sau phản ứng thu được 24,72 gam chất lỏng X và 10,08 gam chất rắn khan Y. Đốt cháy hoàn toàn Y, thu được sản phẩm gồm CO2, H2O và 8,97 gam muối cacbonat khan. Mặt khác, cho X tác dụng với Na dư, thu được 12,768 lít khí H2 (đktc). Phần trăm khối lượng muối trong Y có giá trị gần nhất với",
+    "options": {
+      "A": "80,0.",
+      "B": "97,5.",
+      "C": "67,5.",
+      "D": "85,0."
+    }
+  },
+  {
+    "id": "Câu 37",
+    "question_text": "Cho a gam hỗn hợp X gồm glyxin, alanin và valin phản ứng với 200 ml dd HCl 0,2M, thu được dd Y. Để phản ứng hết với các chất trong dd Y cần 100 ml dd KOH 1,1M. Đốt cháy hoàn toàn a gam hỗn hợp X, thu được hỗn hợp Z gồm CO2, H2O và N2. Cho Z vào bình đựng dd Ba(OH)2 dư, thấy khối lượng bình tăng 14,89 gam. Biết các phản ứng xảy ra hoàn toàn. Giá trị của a là",
+    "options": {
+      "A": "5,53.",
+      "B": "4,27.",
+      "C": "6,23.",
+      "D": "6,51."
+    }
+  },
+  {
+    "id": "Câu 38",
+    "question_text": "X là tetrapeptit Ala-Gly-Val-Ala, Y là tripeptit Val-Gly-Val. Đun nóng m (gam) hỗn hợp chứa X và Y có tỉ lệ số mol của X và Y tương ứng là 1:3 với dung dịch NaOH vừa đủ. Phản ứng hoàn toàn thu được dung dịch T. Cô cạn cẩn thận dung dịch T thu được 23,745 gam chất rắn khan. Giá trị của m là",
+    "options": {
+      "A": "68,1.",
+      "B": "18,345.",
+      "C": "17,025.",
+      "D": "19,455."
+    }
+  },
+  {
+    "id": "Câu 39",
+    "question_text": "Hỗn hợp X gồm các chất lần lượt có công thức phân tử là CH4O, C5H8O, C7H10O, C3H6O, chúng đều mạch hở và có chung 1 loại nhóm chức. Đốt 0,15 mol hỗn hợp X rồi dẫn vào bình đựng dung dịch Ca(OH)2 dư sau phản ứng khối lượng dung dịch giảm 28,38 gam. Nếu cho 0,15 mol hỗn hợp trên vào dung dịch brom dư thì có bao nhiêu gam brom phản ứng?",
+    "options": {
+      "A": "43,2.",
+      "B": "64,8.",
+      "C": "56,7.",
+      "D": "32,4."
+    }
+  },
+  {
+    "id": "Câu 40",
+    "question_text": "Cho hỗn hợp X gồm: etan, propilen, benzen, metylaxetat, axit propanoic. Đốt cháy hoàn toàn m (g) hỗn hợp X cần dùng 4,592 lít khí O2 (đktc) thu được hỗn hợp sản phẩm. Cho toàn bộ sản phẩm cháy vào 100ml dung dịch Ca(OH)2 1M thu được 5g kết tủa và một muối của Ca. Sau phản ứng thấy khối lượng dung dịch tăng 4,3g. Phần trăm số mol của hỗn hợp (metylaxetat, axit propanoic) trong X là",
+    "options": {
+      "A": "12,22%.",
+      "B": "60%.",
+      "C": "87,78%.",
+      "D": "40%."
+    }
+  }
+]

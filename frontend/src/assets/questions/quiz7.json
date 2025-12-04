@@ -1,0 +1,372 @@
+[
+  {
+    "id": "Câu 1",
+    "question_text": "X là một kim loại nhẹ, màu trắng bạc, được ứng dụng rộng rãi trong đời sống. X là",
+    "options": {
+      "A": "Al",
+      "B": "Ag",
+      "C": "Cu",
+      "D": "Fe"
+    }
+  },
+  {
+    "id": "Câu 2",
+    "question_text": "Cho 0,23 gam Natri vào nước dư thu được V (lít) khí H2 (đktc). Giá trị của V là",
+    "options": {
+      "A": "0,112",
+      "B": "0,672",
+      "C": "0,448",
+      "D": "0,224"
+    }
+  },
+  {
+    "id": "Câu 3",
+    "question_text": "Cho dung dịch NaOH vào dung dịch FeCl3 thì xuất hiện kết tủa màu",
+    "options": {
+      "A": "nâu đỏ.",
+      "B": "trắng",
+      "C": "xanh lam.",
+      "D": "trắng hơi xanh."
+    }
+  },
+  {
+    "id": "Câu 4",
+    "question_text": "Dung dịch chất nào sau đây có màu da cam?",
+    "options": {
+      "A": "K2Cr2O7",
+      "B": "CrO3",
+      "C": "KCrO2",
+      "D": "K2CrO4"
+    }
+  },
+  {
+    "id": "Câu 5",
+    "question_text": "Tính chất vật lý chung của kim loại là",
+    "options": {
+      "A": "Tính dẻo, dẫn điện, dẫn nhiệt, ánh kim.",
+      "B": "Tính mềm, dẫn điện, dẫn nhiệt, ánh kim.",
+      "C": "Tính cứng, dẫn điện, dẫn nhiệt, ánh kim.",
+      "D": "Nhiệt độ nóng chảy cao, dẫn điện, dẫn nhiệt, ánh kim."
+    }
+  },
+  {
+    "id": "Câu 6",
+    "question_text": "Các số oxi hoá phổ biến của crom trong hợp chất là",
+    "options": {
+      "A": "+2; +3, +6.",
+      "B": "+3, +4, +6",
+      "C": "+2, +4, +6.",
+      "D": "+1, +2, +4, +6."
+    }
+  },
+  {
+    "id": "Câu 7",
+    "question_text": "Hợp chất sắt (II) sunfat có công thức là",
+    "options": {
+      "A": "FeSO4.",
+      "B": "Fe2(SO4)3.",
+      "C": "FeCO3.",
+      "D": "FeCl2."
+    }
+  },
+  {
+    "id": "Câu 8",
+    "question_text": "Chất nào sau đây không thể hiện tính lưỡng tính?",
+    "options": {
+      "A": "Al(OH)3.",
+      "B": "Al2O3.",
+      "C": "ZnO.",
+      "D": "MgO."
+    }
+  },
+  {
+    "id": "Câu 9",
+    "question_text": "Nung nóng Cu(OH)2. Sau phản ứng thu được chất rắn màu",
+    "options": {
+      "A": "trắng.",
+      "B": "xanh lam.",
+      "C": "đen.",
+      "D": "nâu đỏ."
+    }
+  },
+  {
+    "id": "Câu 10",
+    "question_text": "Phát biểu nào sau đây đúng?",
+    "options": {
+      "A": "Trong phân tử metylamin có một nguyên tử nitơ.",
+      "B": "Amin là hợp chất hữu cơ có chứa nitơ.",
+      "C": "Amin là dẫn xuất của NH3, trong đó 1 hay nhiều nguyên tử H được thay thế bằng gốc hiđrocacbon.",
+      "D": "Amin thơm là amin có vòng benzen."
+    }
+  },
+  {
+    "id": "Câu 11",
+    "question_text": "Thủy phân este X có công thức phân tử C4H8O2 trong dung dịch NaOH, thu được muối natri propionat. Công thức cấu tạo của X là",
+    "options": {
+      "A": "HCOOCH2CH2CH3.",
+      "B": "CH3COOC2H5.",
+      "C": "C2H5COOCH3.",
+      "D": "C3H7COOH."
+    }
+  },
+  {
+    "id": "Câu 12",
+    "question_text": "Chất nào sau đây không có phản ứng tráng bạc?",
+    "options": {
+      "A": "Glucozơ.",
+      "B": "Axit fomic.",
+      "C": "Saccarozơ.",
+      "D": "Fructozơ."
+    }
+  },
+  {
+    "id": "Câu 13",
+    "question_text": "Trong công nghiệp, kim loại nào sau đây được điều chế bằng phương pháp điện phân nóng chảy?",
+    "options": {
+      "A": "Ag",
+      "B": "Al",
+      "C": "Cu",
+      "D": "Fe"
+    }
+  },
+  {
+    "id": "Câu 14",
+    "question_text": "Phát biểu nào sau đây đúng?",
+    "options": {
+      "A": "Polime là hợp chất có phân tử khối lớn do nhiều đơn vị cơ sở (mắt xích) liên kết với nhau.",
+      "B": "Polietilen là chất dẻo được dùng để làm ống dẫn nước, vỏ bọc dây điện.",
+      "C": "Quá trình chuyển các phân tử nhỏ thành phân tử lớn hơn có khối lượng gấp bội gọi là trùng hợp.",
+      "D": "Tơ nilon-6,6 là tơ thiên nhiên."
+    }
+  },
+  {
+    "id": "Câu 15",
+    "question_text": "Chất nào sau đây có tính bazơ mạnh nhất?",
+    "options": {
+      "A": "Anilin.",
+      "B": "Metylamin.",
+      "C": "Amoniac.",
+      "D": "Đimetylamin."
+    }
+  },
+  {
+    "id": "Câu 16",
+    "question_text": "Kim loại nào sau đây có nhiệt độ nóng chảy thấp nhất?",
+    "options": {
+      "A": "Hg",
+      "B": "Fe",
+      "C": "W",
+      "D": "Al"
+    }
+  },
+  {
+    "id": "Câu 17",
+    "question_text": "Cho 10 gam NaOH tác dụng hết với dung dịch Fe2(SO4)3. Khối lượng kết tủa thu được là:",
+    "options": {
+      "A": "10,7 gam.",
+      "B": "16,0 gam.",
+      "C": "21,4 gam.",
+      "D": "5,35 gam."
+    }
+  },
+  {
+    "id": "Câu 18",
+    "question_text": "Trong công nghiệp, cao su buna được điều chế bằng phản ứng",
+    "options": {
+      "A": "trùng ngưng.",
+      "B": "trùng hợp.",
+      "C": "tráng bạc.",
+      "D": "xà phòng hóa."
+    }
+  },
+  {
+    "id": "Câu 19",
+    "question_text": "Tiến hành thí nghiệm mô tả điều chế và thu khí từ hỗn hợp rắn gồm CaCO3 và CaSO3. Kết luận nào sau đây sai?",
+    "options": {
+      "A": "Thí nghiệm không xảy ra.",
+      "B": "Khí thu được làm đục nước vôi trong.",
+      "C": "Thí nghiệm có xảy ra phản ứng hóa học.",
+      "D": "Khí thu được có mùi hắc."
+    }
+  },
+  {
+    "id": "Câu 20",
+    "question_text": "Phát biểu nào sau đâỵ đúng?",
+    "options": {
+      "A": "Tất cả các peptit đều có phản ứng màu biure.",
+      "B": "Metylamin, anilin đều làm quỳ tím chuyển màu xanh.",
+      "C": "Protein là những polipeptit cao phân tử.",
+      "D": "Anilin là bazơ mạnh hơn NH3."
+    }
+  },
+  {
+    "id": "Câu 21",
+    "question_text": "Chất nào sau đây tác dụng với dung dịch AgNO3/NH3 đun nóng tạo kết tủa?",
+    "options": {
+      "A": "Metyl fomat.",
+      "B": "Metan.",
+      "C": "Benzen.",
+      "D": "Ancol etylic."
+    }
+  },
+  {
+    "id": "Câu 22",
+    "question_text": "Cho các chất sau: Gly-Ala, tripanmitin, C2H5OH, axit axetic. Số chất tác dụng với dung dịch NaOH đun nóng là:",
+    "options": {
+      "A": "4.",
+      "B": "3.",
+      "C": "2.",
+      "D": "1."
+    }
+  },
+  {
+    "id": "Câu 23",
+    "question_text": "Hỗn hợp X gồm Fe, Mg, Zn. Cho 6,5 gam X tác dụng với dung dịch HCl (dư), thu được 3,36 lít khí H2 (đktc). Phần trăm khối lượng của Fe trong X có giá trị gần nhất với:",
+    "options": {
+      "A": "25%.",
+      "B": "30%.",
+      "C": "35%.",
+      "D": "40%."
+    }
+  },
+  {
+    "id": "Câu 24",
+    "question_text": "Cho 4,8 gam Mg tác dụng hết với dung dịch HNO3 (loãng), thu được V lít khí N2 (sản phẩm khử duy nhất, đktc). Giá trị của V là",
+    "options": {
+      "A": "1,12.",
+      "B": "2,24.",
+      "C": "3,36.",
+      "D": "4,48."
+    }
+  },
+  {
+    "id": "Câu 25",
+    "question_text": "Cho các phát biểu sau: (1) Dung dịch Na2CO3 làm quỳ tím hóa xanh. (2) Sục khí CO2 vào dung dịch Ba(OH)2 dư thu được kết tủa trắng. (3) Dùng dung dịch H2SO4 để phân biệt BaCl2 và NaCl. (4) Al(OH)3 là hiđroxit lưỡng tính. (5) CrO3 là oxit lưỡng tính. Số phát biểu đúng là:",
+    "options": {
+      "A": "4.",
+      "B": "3.",
+      "C": "5.",
+      "D": "2."
+    }
+  },
+  {
+    "id": "Câu 26",
+    "question_text": "Cho m gam X gồm Na, Na2O, Al, Al2O3. Cho X vào H2O dư, thu được dung dịch Y và 0,05 mol H2. Sục khí CO2 (dư) vào Y, thu được 7,8 gam kết tủa. Giá trị của m là",
+    "options": {
+      "A": "11,15.",
+      "B": "10,20.",
+      "C": "12,45.",
+      "D": "13,85."
+    }
+  },
+  {
+    "id": "Câu 27",
+    "question_text": "Hỗn hợp X gồm ba este (đều đơn chức, mạch hở, đồng phân của nhau). Đốt cháy hoàn toàn 0,15 mol X cần dùng 0,54 mol O2. Mặt khác, đun nóng 0,15 mol X với 300 ml dung dịch NaOH 1M. Sau khi phản ứng xảy ra hoàn toàn, cô cạn dung dịch thu được m gam chất rắn. Giá trị của m là",
+    "options": {
+      "A": "17,6.",
+      "B": "18,0.",
+      "C": "20,4.",
+      "D": "21,6."
+    }
+  },
+  {
+    "id": "Câu 28",
+    "question_text": "Hỗn hợp T gồm peptit X và peptit Y (đều mạch hở). Thủy phân hoàn toàn T thu được 0,1 mol Gly, 0,2 mol Ala và 0,1 mol Val. Biết X có 3 liên kết peptit và Y có 2 liên kết peptit. Phần trăm số mol của X trong T là",
+    "options": {
+      "A": "75%.",
+      "B": "60%.",
+      "C": "50%.",
+      "D": "25%."
+    }
+  },
+  {
+    "id": "Câu 29",
+    "question_text": "Thủy phân hoàn toàn 1 mol tripeptit X (mạch hở), thu được 2 mol glyxin và 1 mol valin. X có công thức cấu tạo là",
+    "options": {
+      "A": "Gly-Val-Gly.",
+      "B": "Gly-Gly-Val.",
+      "C": "Val-Gly-Gly.",
+      "D": "Gly-Val-Ala."
+    }
+  },
+  {
+    "id": "Câu 30",
+    "question_text": "Hỗn hợp X gồm Fe, Fe3O4 và Fe(NO3)2. Cho 20,4 gam X tác dụng với dung dịch HCl (dư), thu được dung dịch Y và 0,02 mol khí NO (sản phẩm khử duy nhất của N+5). Cho dung dịch AgNO3 (dư) vào Y, thu được 70,84 gam kết tủa. Mặt khác, hòa tan hoàn toàn 20,4 gam X bằng dung dịch H2SO4 đặc, nóng (dư), thu được V lít khí NO2 (sản phẩm khử duy nhất, đktc). Giá trị của V là",
+    "options": {
+      "A": "10,08.",
+      "B": "5,376.",
+      "C": "4,48.",
+      "D": "6,72."
+    }
+  },
+  {
+    "id": "Câu 31",
+    "question_text": "Điện phân dung dịch chứa m gam hỗn hợp CuSO4 và NaCl bằng điện cực trơ, màng ngăn xốp. Khi ở cả hai cực đều có khí thoát ra, dừng điện phân thì thấy tổng thể tích khí thu được ở anot và catot là 2,8 lít (đktc). Dung dịch sau điện phân hòa tan tối đa 3,06 gam Al2O3. Giá trị của m là",
+    "options": {
+      "A": "25,05.",
+      "B": "26,15.",
+      "C": "27,25.",
+      "D": "28,35."
+    }
+  },
+  {
+    "id": "Câu 32",
+    "question_text": "Hỗn hợp E gồm amin X có công thức dạng CnH2n+3N và aminoaxit Y có công thức dạng CnH2n+1O2N (trong đó số mol X và Y bằng nhau). Đốt cháy hoàn toàn 0,1 mol hỗn hợp E cần dùng 0,39 mol O2, thu được CO2, H2O và N2. Phần trăm khối lượng của X trong E là",
+    "options": {
+      "A": "30,86%.",
+      "B": "42,20%.",
+      "C": "26,14%.",
+      "D": "37,50%."
+    }
+  },
+  {
+    "id": "Câu 33",
+    "question_text": "Cho 2,16 gam Al tan hết trong dung dịch hỗn hợp chứa 0,08 mol Fe(NO3)3 và V lít dung dịch H2SO4 0,1M, thu được khí NO (sản phẩm khử duy nhất của N+5, đktc) và dung dịch X (chỉ chứa các muối sunfat và nitrat). Cho dung dịch BaCl2 dư vào dung dịch X, thu được 16,33 gam kết tủa. Giá trị của V là",
+    "options": {
+      "A": "0,8.",
+      "B": "0,7.",
+      "C": "0,6.",
+      "D": "0,5."
+    }
+  },
+  {
+    "id": "Câu 34",
+    "question_text": "Hỗn hợp X gồm Fe, Mg, Al và ZnO. Hòa tan hoàn toàn 37,2 gam X bằng dung dịch HNO3 (loãng, dư), thu được dung dịch Y và 8,96 lít hỗn hợp khí Z (đktc) gồm NO và N2O (tỉ khối của Z so với H2 là 16,75). Cô cạn dung dịch Y thu được 133,4 gam muối khan (không có muối NH4NO3). Phần trăm khối lượng của Fe trong X có giá trị gần nhất với:",
+    "options": {
+      "A": "29%.",
+      "B": "30%.",
+      "C": "31%.",
+      "D": "32%."
+    }
+  },
+  {
+    "id": "Câu 35",
+    "question_text": "Hỗn hợp T gồm peptit X (Ala-Val-Gly) và pentapeptit Y (Val-Gly-Ala-Val-Gly). Đốt cháy hoàn toàn m gam T thu được 26,88 lít CO2 (đktc) và 20,7 gam H2O. Mặt khác, đun nóng m gam T với 400 ml dung dịch NaOH 1M, cô cạn dung dịch sau phản ứng thu được a gam chất rắn khan. Giá trị của a là:",
+    "options": {
+      "A": "32,9.",
+      "B": "34,9.",
+      "C": "30,1.",
+      "D": "31,9."
+    }
+  },
+  {
+    "id": "Câu 36",
+    "question_text": "X là một tripeptit, Y là một tetrapeptit. Thủy phân hoàn toàn X cũng như Y đều được Gly và Val. Đốt cháy hoàn toàn hỗn hợp E chứa X và Y có tỉ lệ mol tương ứng 1:3 cần dùng 22,176 lít O2 (đktc). Sản phẩm cháy gồm CO2, H2O và N2. Dẫn toàn bộ sản phẩm cháy qua bình đựng dung dịch Ca(OH)2 dư thấy khối lượng bình tăng 46,48 gam; khí thoát ra khỏi bình có thể tích 2,464 lít (đktc). Thủy phân hoàn hoàn toàn hỗn hợp E thu được a mol Gly và b mol Val. Tỉ lệ a:b là",
+    "options": {
+      "A": "1:1.",
+      "B": "1:2.",
+      "C": "2:l.",
+      "D": "2:3."
+    }
+  },
+  {
+    "id": "Câu 37",
+    "question_text": "X, Y (M_X < M_Y) là hai axit kế tiếp thuộc cùng dãy đồng đẳng axit fomic; Z là este hai chức tạo bởi X, Y và ancol T. Đốt cháy 25,04 gam hỗn hợp E chứa X, Y, Z, T (đều mạch hở) cần dùng 16,576 lít O2(đktc) thu được 14,4 gam nước. Mặt khác, đun nóng 12,52 gam E cần dùng 380 ml dung dịch NaOH 0,5M. Biết rằng ở điều kiện thường, ancol T không tác dụng được với Cu(OH)2. Phần trăm khối lượng của X có trong hỗn hợp E gần nhất với",
+    "options": {
+      "A": "45%.",
+      "B": "40%.",
+      "C": "55%.",
+      "D": "50%."
+    }
+  }
+]
