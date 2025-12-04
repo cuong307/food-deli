@@ -4,7 +4,7 @@ export const connectDB = async () => {
   try {
     await mongoose.connect(
       process.env.MONGO_URL ||
-        "mongodb+srv://cuong:cuong@cluster0.fkjbif3.mongodb.net/?retryWrites=true&w=majority"
+        "mongodb+srv://cuong:cuong@cluster0.fkjbif3.mongodb.net/"
     );
 
     console.log("🚀 MongoDB connected successfully");
@@ -13,6 +13,7 @@ export const connectDB = async () => {
     process.exit(1);
   }
 };
+
 
 
 
