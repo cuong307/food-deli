@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 
 const Cart = () => {
-  // Danh sách câu hỏi (có thể fetch từ backend)
   const questions = [
     {
       id: 1,
@@ -23,6 +22,8 @@ const Cart = () => {
     }
   ];
 
+  const letters = ["A", "B", "C", "D"]; // ⭐ Option labels
+
   const [selected, setSelected] = useState({});
   const [score, setScore] = useState(null);
 
@@ -43,26 +44,20 @@ const Cart = () => {
   return (
     <div className="cart">
       <div className="cart-items">
-        <div className="cart-items-title">
-          <p>Câu hỏi</p>
-          <p>Đáp án của bạn</p>
-          <p>Đúng/Sai</p>
-          <p>Chọn đáp án</p>
-          <p>Xoá</p>
-        </div>
         <br />
         <hr />
 
         {questions.map((q) => (
           <div key={q.id}>
             <div className="cart-items-title cart-items-item">
+
               {/* Câu hỏi */}
               <p>{q.question}</p>
 
-              {/* Đáp án bạn chọn */}
+              {/* Đáp án bạn chọn (hiển thị A/B/C/D) */}
               <p>
                 {selected[q.id] !== undefined
-                  ? q.options[selected[q.id]]
+                  ? `${letters[selected[q.id]]}. ${q.options[selected[q.id]]}`
                   : "---"}
               </p>
 
@@ -79,7 +74,7 @@ const Cart = () => {
                 )}
               </p>
 
-              {/* Chọn đáp án */}
+              {/* Danh sách chọn đáp án A/B/C/D */}
               <select
                 value={selected[q.id] ?? ""}
                 onChange={(e) =>
@@ -90,18 +85,20 @@ const Cart = () => {
                 }
               >
                 <option value="">-- chọn --</option>
+
                 {q.options.map((op, index) => (
                   <option key={index} value={index}>
-                    {op}
+                    {letters[index]}. {op}
                   </option>
                 ))}
               </select>
 
-              {/* Xoá */}
+              {/* Xóa đáp án */}
               <p className="cross" onClick={() => removeAnswer(q.id)}>
                 x
               </p>
             </div>
+
             <hr />
           </div>
         ))}
@@ -127,16 +124,6 @@ const Cart = () => {
           </div>
 
           <button onClick={submitQuiz}>NỘP BÀI</button>
-        </div>
-
-        <div className="cart-promocode">
-          <div>
-            <p>Nhập mã giáo viên giao bài (optional)</p>
-            <div className="cart-promocode-input">
-              <input type="text" placeholder="mã đề thi" />
-              <button>Gửi</button>
-            </div>
-          </div>
         </div>
       </div>
     </div>
