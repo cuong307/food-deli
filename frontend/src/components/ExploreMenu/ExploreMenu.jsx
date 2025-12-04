@@ -21,7 +21,7 @@ const ExploreMenu = ({ category, setCategory }) => {
     const loadQuizzes = async () => {
       const loaded = await Promise.all(
         quizFiles.map(async (file) => {
-          const data = await import(`../../assets/question/${file}`);
+          const data = await import(`../../assets/questions/${file}`);
           return { name: file.replace(".json", ""), content: data.default };
         })
       );
@@ -46,7 +46,7 @@ const ExploreMenu = ({ category, setCategory }) => {
           >
             <img
               className={category === quiz.name ? "active" : ""}
-              src="/assets/question/quiz-icon.png" // placeholder icon for each quiz
+              src="/assets/questions/quiz-icon.png" // placeholder icon for each quiz
               alt={quiz.name}
             />
             <p>{quiz.name}</p>
