@@ -22,8 +22,7 @@ const Cart = () => {
     }
   ];
 
-  const letters = ["A", "B", "C", "D"]; // ⭐ Option labels
-
+  const letters = ["A", "B", "C", "D"];
   const [selected, setSelected] = useState({});
   const [score, setScore] = useState(null);
 
@@ -35,97 +34,65 @@ const Cart = () => {
     setScore(s);
   };
 
-  const removeAnswer = (id) => {
-    const temp = { ...selected };
-    delete temp[id];
-    setSelected(temp);
-  };
-
   return (
-    <div className="cart">
-      <div className="cart-items">
-        <br />
-        <hr />
+    <div className="quiz">
+      {questions.map((q) => (
+        <div key={q.id} style={{ marginBottom: "30px" }}>
+          <h3>{q.question}</h3>
 
-        {questions.map((q) => (
-          <div key={q.id}>
-            <div className="cart-items-title cart-items-item">
-
-              {/* Câu hỏi */}
-              <p>{q.question}</p>
-
-              {/* Đáp án bạn chọn (hiển thị A/B/C/D) */}
-              <p>
-                {selected[q.id] !== undefined
-                  ? `${letters[selected[q.id]]}. ${q.options[selected[q.id]]}`
-                  : "---"}
-              </p>
-
-              {/* Đúng/Sai */}
-              <p>
-                {selected[q.id] !== undefined ? (
-                  selected[q.id] === q.answer ? (
-                    <span style={{ color: "green" }}>Đúng</span>
-                  ) : (
-                    <span style={{ color: "red" }}>Sai</span>
-                  )
-                ) : (
-                  "-"
-                )}
-              </p>
-
-              {/* Danh sách chọn đáp án A/B/C/D */}
-              <select
-                value={selected[q.id] ?? ""}
-                onChange={(e) =>
+          {/* LIST A/B/C/D */}
+          {q.options.map((op, index) => (
+            <label
+              key={index}
+              style={{
+                display: "block",
+                margin: "5px 0",
+                cursor: "pointer"
+              }}
+            >
+              <input
+                type="radio"
+                name={`q-${q.id}`}
+                value={index}
+                checked={selected[q.id] === index}
+                onChange={() =>
                   setSelected({
                     ...selected,
-                    [q.id]: Number(e.target.value)
+                    [q.id]: index
                   })
                 }
-              >
-                <option value="">-- chọn --</option>
+              />
+              <strong>{letters[index]}.</strong> {op}
+            </label>
+          ))}
 
-                {q.options.map((op, index) => (
-                  <option key={index} value={index}>
-                    {letters[index]}. {op}
-                  </option>
-                ))}
-              </select>
+          {/* Show Correct / Incorrect */}
+          {selected[q.id] !== undefined && (
+            <p>
+              {selected[q.id] === q.answer ? (
+                <span style={{ color: "green" }}>Đúng</span>
+              ) : (
+                <span style={{ color: "red" }}>Sai</span>
+              )}
+            </p>
+          )}
 
-              {/* Xóa đáp án */}
-              <p className="cross" onClick={() => removeAnswer(q.id)}>
-                x
-              </p>
-            </div>
-
-            <hr />
-          </div>
-        ))}
-      </div>
-
-      <div className="cart-bottom">
-        <div className="cart-total">
-          <h2>Kết quả bài thi</h2>
-
-          <div className="cart-total-details">
-            <p>Số câu đúng</p>
-            <p>{score !== null ? score : "-"}</p>
-          </div>
-
-          <div className="cart-total-details">
-            <p>Tổng số câu</p>
-            <p>{questions.length}</p>
-          </div>
-
-          <div className="cart-total-details">
-            <b>Điểm</b>
-            <b>{score !== null ? (score / questions.length) * 10 : "-"}</b>
-          </div>
-
-          <button onClick={submitQuiz}>NỘP BÀI</button>
+          <hr />
         </div>
-      </div>
+      ))}
+
+      <button onClick={submitQuiz} style={{ padding: "10px 20px" }}>
+        Nộp bài
+      </button>
+
+      {score !== null && (
+        <div style={{ marginTop: "20px" }}>
+          <h2>Kết quả</h2>
+          <p>Đúng: {score}</p>
+          <p>Tổng số câu: {questions.length}</p>
+          <h3>Điểm: {(score / questions.length) * 10}</h3>
+        </div>
+      )}
     </div>
   );
 };
