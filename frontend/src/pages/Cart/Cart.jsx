@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Quiz.css";
 
-const Quiz = () => {
+const Cart = () => {
   // Danh sách câu hỏi (có thể fetch từ backend)
   const questions = [
     {
